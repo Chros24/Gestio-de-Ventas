@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Chros\\Desktop\\semestre_3\\programacion.net\\GestionVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F283DA2-7942-47D7-9542-4C8FE7A65142}|GestionVentas\\GestionVentas.csproj|c:\\users\\chros\\desktop\\semestre_3\\programacion.net\\gestionventas\\gestionventas\\controllers\\registrousuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F283DA2-7942-47D7-9542-4C8FE7A65142}|GestionVentas\\GestionVentas.csproj|solutionrelative:gestionventas\\controllers\\registrousuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F283DA2-7942-47D7-9542-4C8FE7A65142}|GestionVentas\\GestionVentas.csproj|c:\\users\\chros\\desktop\\semestre_3\\programacion.net\\gestionventas\\gestionventas\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F283DA2-7942-47D7-9542-4C8FE7A65142}|GestionVentas\\GestionVentas.csproj|solutionrelative:gestionventas\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F283DA2-7942-47D7-9542-4C8FE7A65142}|GestionVentas\\GestionVentas.csproj|c:\\users\\chros\\desktop\\semestre_3\\programacion.net\\gestionventas\\gestionventas\\controllers\\registroproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F283DA2-7942-47D7-9542-4C8FE7A65142}|GestionVentas\\GestionVentas.csproj|solutionrelative:gestionventas\\controllers\\registroproductoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F283DA2-7942-47D7-9542-4C8FE7A65142}|GestionVentas\\GestionVentas.csproj|c:\\users\\chros\\desktop\\semestre_3\\programacion.net\\gestionventas\\gestionventas\\controllers\\registroproveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F283DA2-7942-47D7-9542-4C8FE7A65142}|GestionVentas\\GestionVentas.csproj|solutionrelative:gestionventas\\controllers\\registroproveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Chros\\Desktop\\semestre_3\\programacion.net\\GestionVentas\\GestionVentas\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "GestionVentas\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Chros\\Desktop\\semestre_3\\programacion.net\\GestionVentas\\GestionVentas\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "GestionVentas\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:46:16.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroUsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Chros\\Desktop\\semestre_3\\programacion.net\\GestionVentas\\GestionVentas\\Controllers\\RegistroUsuarioController.cs",
+              "RelativeDocumentMoniker": "GestionVentas\\Controllers\\RegistroUsuarioController.cs",
+              "ToolTip": "C:\\Users\\Chros\\Desktop\\semestre_3\\programacion.net\\GestionVentas\\GestionVentas\\Controllers\\RegistroUsuarioController.cs",
+              "RelativeToolTip": "GestionVentas\\Controllers\\RegistroUsuarioController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:45:56.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\Chros\\Desktop\\semestre_3\\programacion.net\\GestionVentas\\GestionVentas\\Controllers\\RegistroProveedorController.cs",
+              "RelativeDocumentMoniker": "GestionVentas\\Controllers\\RegistroProveedorController.cs",
+              "ToolTip": "C:\\Users\\Chros\\Desktop\\semestre_3\\programacion.net\\GestionVentas\\GestionVentas\\Controllers\\RegistroProveedorController.cs",
+              "RelativeToolTip": "GestionVentas\\Controllers\\RegistroProveedorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:44:58.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Chros\\Desktop\\semestre_3\\programacion.net\\GestionVentas\\GestionVentas\\Controllers\\RegistroProductosController.cs",
+              "RelativeDocumentMoniker": "GestionVentas\\Controllers\\RegistroProductosController.cs",
+              "ToolTip": "C:\\Users\\Chros\\Desktop\\semestre_3\\programacion.net\\GestionVentas\\GestionVentas\\Controllers\\RegistroProductosController.cs",
+              "RelativeToolTip": "GestionVentas\\Controllers\\RegistroProductosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:44:14.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
